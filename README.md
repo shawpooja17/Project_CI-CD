@@ -2,4 +2,4 @@
 "# assignment1" 
 
 #curl -sO http://localhost:8080/jnlpJars/agent.jar
-#java -jar agent.jar -jnlpUrl http://localhost:8080/computer/SlaveNode/jenkins-agent.jnlp -secret dd1686dfe920e86e1efd8ce0299e1d0edf012b6514e3f0b6557d5afb5964677c -workDir "/root/Project/"
+#java -jar agent.jar -jnlpUrl http://localhost:8080/computer/slave/jenkins-agent.jnlp -secret c4aafa432d5f40f27b98a0f1dd79ab50170971a958624cab14aad5f68ef30247 -workDir "/home/edureka/Project"
